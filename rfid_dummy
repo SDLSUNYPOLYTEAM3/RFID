@@ -1,0 +1,20 @@
+#!/usr/bin/env/ python3
+# this is a dummy script to output a fake EPC, representing a runcitoning RFID system
+
+import sys
+import os
+
+user = sys.argv[1]
+EPC = [001,002,003,004,005,006,007,008,009,010]
+
+def pass_epc(EPC,user):
+    if user <= length(EPC)
+        current_user = EPC(user)
+    else 
+        current_user = 'unknown user'
+
+    return current_user
+    
+if__name__=='__main__':
+    pass_epc(EPC,user)
+    
