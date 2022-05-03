@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 #author: s arbogast
-#creat bits for query and ack, encode with PIE, add string of 1s for CW
+#create bits for query and ack, encode with PIE, add string of 1s for CW
 #write to file, this file can then be read by gnuradio file sink
+#
+# Copyright (c) 2005-2021, NumPy Developers., All rights reserved.
 
 import numpy as np
 
